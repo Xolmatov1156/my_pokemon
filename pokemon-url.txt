@@ -1,1 +1,1 @@
-https://boriyeva-aisha.netlify.app/
+https://my-pokemon-pi.vercel.app/
